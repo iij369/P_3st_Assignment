@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main(){
-	int n,i;
+	int n;
+	int i;
 	float arr[100];
 	printf("Enter total number of elements(1 to 100):");
 	scanf("%d",&n);
